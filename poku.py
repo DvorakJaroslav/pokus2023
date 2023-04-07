@@ -1,0 +1,1 @@
+print("tohle je 1 řádek")
